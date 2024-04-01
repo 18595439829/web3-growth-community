@@ -1,7 +1,7 @@
 ## 2024-03-26
 https://juejin.cn/post/7316202755159572531?searchId=20240326093055A3B4190D8CEE117A39DC
 1.Ant Design Web3 1.0了解学习
-
+2.学习Ant Design Web3 链接钱包，以太坊
 
 ## 2024-03-20
 https://juejin.cn/post/7307185531330838543?searchId=202403201347293BFDBD9989188121D7CA
